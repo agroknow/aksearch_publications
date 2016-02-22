@@ -1,0 +1,11 @@
+name = Agroknow Search Module - Publications
+description = "Search on Agroknow ES indices containing publications"
+package = Agroknow
+core = 7.x
+dependencies[] = jquery_update
+files[] = aksearch_publications.install
+files[] = aksearch_publications.module
+files[] = aksearch_publications.js
+files[] = aksearch_publications.css
+files[] = aksearch_publications.admin.inc
+configure=admin/config/aksearch_publications/settings
