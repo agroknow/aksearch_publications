@@ -51,7 +51,7 @@ listing.controller("mainController", function($rootScope, $scope, $http, $routeP
 	//console.log(err);
 	/*-----------------------------------DEFAULT FINDER SETTINGS-----------------------------------*/
 		//API URL
-		$scope.api_path = 'http://api.greenlearningnetwork.com/search-api/v1/';
+		$scope.api_path = 'http://api.akstem.com/search-api/v1/';
 		/* $scope.api_path = 'http://212.189.145.245/search-api/v1/'; */
 
 		//SCHEMA : AKIF of AGRIF

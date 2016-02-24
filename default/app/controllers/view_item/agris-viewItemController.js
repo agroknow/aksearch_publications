@@ -52,7 +52,7 @@ listing.controller("agris-viewItemController", function($scope, $http, $location
 
 	/*AKIF URL*/
 
-	$scope.api_path = 'http://api.greenlearningnetwork.com/search-api/v1/agrif/';
+	$scope.api_path = 'http://api.akstem.com/search-api/v1/agrif/';
 
 	//$scope.item_resource_id = '';
 
